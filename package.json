@@ -1,7 +1,7 @@
 {
   "name": "calendar",
   "version": "0.1.0",
-  "homepage": "https://GBG-EKI.github.io/react-gh-pages",
+  "homepage": "https://gbg-eki.github.io/ekimetrics.calendar.github.io/",
   "private": true,
   "dependencies": {
     "@fullcalendar/core": "^6.1.9",
